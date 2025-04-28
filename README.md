@@ -160,7 +160,7 @@ Confusion Matrix:
 
 - **Programming**: Python (Pandas, Scikit-learn, Matplotlib)  
 - **Workflow**: Jupyter Notebooks for data prep, modeling, and visualization
-- [Uploading flight-delay-prediction-flight_delay_prediction.ipynb at main · amr-salah92-flight-delay-prediction.url…](https://github.com/amr-salah92/flight-delay-prediction/blob/main/flight_delay_prediction.ipynb)
+- [flight-delay-prediction.code](https://github.com/amr-salah92/flight-delay-prediction/blob/main/flight_delay_prediction.ipynb)
 
 
 ---
