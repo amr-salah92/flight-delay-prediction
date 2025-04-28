@@ -54,6 +54,9 @@ This project uses synthetic data mimicking 50,000 flight records (2020–2023) t
   8. **weather_severity**: Categorical (Clear, Rain, Storm, Snow)  
   9. **holiday**: Binary (0 = non-holiday, 1 = holiday)  
   10. **delayed**: Binary target (0 = on-time, 1 = delayed)
+ 
+      
+![Screenshot_28-4-2025_214136_dbdiagram io](https://github.com/user-attachments/assets/1bc11c6f-a32c-4d41-baf2-73b56609c7bc)
 
 **Initial Checks**  
 - No duplicates or missing values detected.  
@@ -114,6 +117,7 @@ Confusion Matrix:
 ### Temporal Patterns
 - **Rush Hours**: 16:00–20:00 show a 28% delay rate versus 10% during 00:00–06:00.  
 - **Weekend Effects**: Higher delays on Saturdays and Sundays compared to mid-week.
+![48c94595-2059-4b17-9377-371964fa4237](https://github.com/user-attachments/assets/a58fefe0-9959-4411-a80e-eac8fca849d6)
 
 ### Holiday Correlation
 - **Delays**: 2,313 on holidays vs. 9,127 on non-holidays.
@@ -121,6 +125,7 @@ Confusion Matrix:
 ### Weather Analysis
 - **Clear vs. Severe**: Clear weather accounts for 4,131 delayed flights.  
 - **Severity Ranking**: Storm > Snow > Rain > Clear in terms of rate increase.
+![01f4a54d-b447-432c-9ac3-7609cb51e0b3](https://github.com/user-attachments/assets/5437c862-5fee-4521-8eab-3173ab47b956)
 
 ### Airline Performance
 - **JetBlue**: Top in flight volume, distance, speed; 2nd in duration.  
