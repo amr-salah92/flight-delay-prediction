@@ -122,6 +122,7 @@ Confusion Matrix:
 ### Holiday Correlation
 - **Delays**: 2,313 on holidays vs. 9,127 on non-holidays.
 
+
 ### Weather Analysis
 - **Clear vs. Severe**: Clear weather accounts for 4,131 delayed flights.  
 - **Severity Ranking**: Storm > Snow > Rain > Clear in terms of rate increase.
