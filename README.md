@@ -136,8 +136,6 @@ Confusion Matrix:
 - **SFO**:  Least delayed origin, 2nd least as destination.  
 - **DEN/DFW**: DEN as top destination, DFW as top origin; each opposite for bottom ranking.
 
-### Route Efficiency
-- **Long-Haul (>3,000 km)**: 18% lower delay rate, suggesting schedule buffers.  
 
 ### Top Delayed Route Counts (≈5% of all delays)
 - **LAX → DEN**: 206 delayed flights  
