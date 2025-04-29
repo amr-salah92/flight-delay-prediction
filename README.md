@@ -124,13 +124,12 @@ Confusion Matrix:
 
 
 ### Weather Analysis
-- **Clear vs. Severe**: Clear weather accounts for 4,131 delayed flights.  
 - **Severity Ranking**: Storm > Snow > Rain > Clear in terms of rate increase.
 ![01f4a54d-b447-432c-9ac3-7609cb51e0b3](https://github.com/user-attachments/assets/5437c862-5fee-4521-8eab-3173ab47b956)
 
 ### Airline Performance
 - **JetBlue**: Top in flight volume, distance, speed; 2nd in duration.  
-- **Spirit Airlines**: Highest delay rate (32%); **Delta**: Lowest (12%).
+- **Spirit Airlines**: Highest delay flights (15%); **Amrican**: Lowest (13.6%) of all delayed flights.
 
 ### Airport Dynamics
 - **LAX**: Top delayed origin, 2nd as destination.  
